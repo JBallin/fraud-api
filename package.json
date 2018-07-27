@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "json-server db.json --host 'fraud-api.herokuapp.com/'"
+  },
   "dependencies": {
     "json-server": "^0.14.0"
   }

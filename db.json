@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Superbowl Party",
+      "fraud": null,
+      "prob": 56
+    },
+    {
+      "id": 2,
+      "title": "Fire Fest",
+      "fraud": null,
+      "prob": 9
+    },
+    {
+      "id": 3,
+      "title": "Burning man prep",
+      "fraud": null,
+      "prob": 97
+    },
+    {
+      "id": 4,
+      "title": "Basic JS Workshop",
+      "fraud": null,
+      "prob": 69
+    },
+    {
+      "id": 5,
+      "title": "Smoldering Man",
+      "fraud": null,
+      "prob": 36
+    },
+    {
+      "id": 6,
+      "title": "MAGA",
+      "fraud": null,
+      "prob": 84
+    },
+    {
+      "id": 7,
+      "title": "Pool Party",
+      "fraud": null,
+      "prob": 15
+    },
+    {
+      "id": 8,
+      "title": "How Weird SF",
+      "fraud": null,
+      "prob": 12
+    }
+  ]
+}
